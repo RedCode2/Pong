@@ -1,26 +1,12 @@
-# Raylib C++ Starter Template
+# Pong
 
-Raylib C++ Starter Template for Visual Studio Code on Windows.
+## How to run the game?:
+- Clone this repository on your computer.
+- Open main.exe.
+- The game is ready to be played!
 
-This demo project contains a bouncing ball raylib example program.
+## Acknowledgements:
+Made with C++ and Raylib.
 
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
-
-# Video Tutorial
-
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
-
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
-
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
-</p>
-
+## LICENSE:
+This project is licensed under the MIT License
